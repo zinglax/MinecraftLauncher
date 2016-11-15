@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Terminal=true
+Icon=/home/dylan/Desktop/GITHUBS/MinecraftLauncher/launcher/200x200.png
+Name=MinecraftLau
+Exec=/home/dylan/Desktop/GITHUBS/MinecraftLauncher/launcher/launcher.sh
+Categories=Utility;
+Name[en_US]=MinecraftLau
